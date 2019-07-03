@@ -7,7 +7,7 @@
 ### Create new module
 
  ```console
- php artisan module:make Pizza
+ php artisan make:module Conta
  ```
 
 ## License
@@ -16,5 +16,5 @@ This repository is open-sourced software licensed under the [MIT license](https:
 
 ## Reference
 
-- [Laravel/Lumen Modules](https://nwidart.com/laravel-modules/v5/introduction)
-- [Lumen website](https://lumen.laravel.com/docs).
+- [Laravel Modules](https://caffeinatedpackages.com/guide/packages/modules.html#installationn)
+- [Laravel website](https://laravel.com)
